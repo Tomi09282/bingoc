@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bingoc", "bingoc\bingoc.csproj", "{5D570F29-8EA2-4D57-A149-99E67A6263C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D570F29-8EA2-4D57-A149-99E67A6263C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D570F29-8EA2-4D57-A149-99E67A6263C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D570F29-8EA2-4D57-A149-99E67A6263C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D570F29-8EA2-4D57-A149-99E67A6263C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AABC27E8-0CEB-4871-A2D5-C577FEC6BC56}
+	EndGlobalSection
+EndGlobal
